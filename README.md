@@ -3,6 +3,7 @@
 > Design a sales dashboard to analyze the sales and profit based on various product categories. Also add user control for product category so that users can select a category and see the trends month-wise and region-wise accordingly.
 ## Tools used
 > Microsoft excel, Data Analysis Add-in
+##
 ![p2-1](https://github.com/user-attachments/assets/eb69b7fd-b502-47af-b361-dd9e75560656)
 ![p2-2](https://github.com/user-attachments/assets/d2f54c06-d97f-4c12-92d7-390133250246)
 ![p2-3](https://github.com/user-attachments/assets/a4a3b273-4c2e-4941-a1b9-b48f1a6c6d4b)
